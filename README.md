@@ -9,6 +9,7 @@ I'm passionate about transforming raw data into meaningful insights. As a data a
 - **Data Visualization:** Matplotlib, Seaborn
 - **Database Management:** MySQL, SQLite
 - **Statistical Analysis:** Hypothesis testing, Regression Analysis
+- **Software:** Microsoft Power BI, Tableau, Excel 
 
 ## 💼 Projects
 
