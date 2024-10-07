@@ -27,7 +27,7 @@ I'm passionate about transforming raw data into meaningful insights. As a data a
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Portfolio: [Your Portfolio Website](https://public.tableau.com/app/profile/yonas.b.michael/vizzes)
+- LinkedIn: [Tablue Profile](link-to-linkedin)
+- Portfolio: [Portfolio Website](https://github.com/Yonas-B-Michael/Portfolio-)
 
 Feel free to explore my repositories and provide feedback. I'm always open to collaboration and new opportunities!
