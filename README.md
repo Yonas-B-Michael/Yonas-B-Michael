@@ -14,7 +14,7 @@ I'm passionate about transforming raw data into meaningful insights. As a data a
 ## 💼 Projects
 
 ### [Project 1: Data Exploration and Visualization](link-to-project-1)
-- Brief description of the project and your role.
+- Brief description of the project and role.
 - Technologies used.
 
 ### [Project 2: Predictive Modeling with Machine Learning](link-to-project-2)
